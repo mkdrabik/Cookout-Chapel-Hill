@@ -1,0 +1,95 @@
+html {
+    height: 100px;
+}
+
+body {
+    background-color: #2F3035;
+    background-image: url(images/ch.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+
+header {
+    height: 118px;
+    text-align: center;
+    
+}
+
+nav{
+    background-color: rgba(0, 183, 255, 0.491);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    
+}
+
+main{
+    height: 100px;
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+    
+}
+
+footer{
+    margin-top: 150px;
+    background-color: rgb(13, 9, 1);
+    height: 100px;
+    text-align: center;
+    
+}
+
+h1 {
+    background-color: rgb(0, 183, 255);
+    font-size: 64px;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+}
+
+p {
+    font-size: 18px;
+    color: rgb(0, 183, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 0, 0, 0.492);
+}
+
+a {
+    font-size: 18px;
+    color: rgb(0, 183, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+main a {
+    font-size: 18px;
+    color: rgb(0, 183, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 0, 0, 0.492);
+}
+
+footer p {
+    padding-top: 10px;
+    background-color: #2f303500;
+}
+
+section {
+    height: 400px; 
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
